@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours technique en français sur KZG, Marlin, le batching et les autres familles d engagements polynomiaux est disponible dans [`docs/fr/`](docs/fr/).
+
 <h1 align="center">Polynomial Commitments</h1>
 
 <p align="center">
